@@ -16,5 +16,12 @@ An autonomous financial support agent built with Python. This project demonstrat
 ## Setup and Installation
 
 1. Clone the repository:
-```bash
-   git clone [https://github.com/YourUsername/Financial-AI-Agent.git](https://github.com/YourUsername/Financial-AI-Agent.git)
+   git clone https://github.com/YourUsername/Financial-AI-Agent.git
+   
+2. Install the required dependencies (e.g., `openai`):
+   pip install openai
+   
+3. **Security Setup:** Create a `.env` file in the root directory and add your OpenAI API key. (Never commit this file to GitHub):
+   OPENAI_API_KEY="your_actual_api_key_here"
+   
+4. Open and run the `final_model.ipynb` notebook in your local environment.
