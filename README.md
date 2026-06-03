@@ -16,7 +16,7 @@ An autonomous financial support agent built with Python. This project demonstrat
 ## Setup and Installation
 
 1. Clone the repository:
-   git clone https://github.com/YourUsername/Financial-AI-Agent.git
+   git clone https://github.com/YaelAssis/Financial-AI-Agent.git
    
 2. Install the required dependencies (e.g., `openai`):
    pip install openai
